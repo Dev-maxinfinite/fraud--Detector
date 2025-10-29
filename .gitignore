@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .env
 *.sqlite
+creditcard_transactions.db
+creditcard.csv
+assets/
